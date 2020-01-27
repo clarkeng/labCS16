@@ -1,1 +1,1 @@
-# labCS16
+# ASCII Art lab
